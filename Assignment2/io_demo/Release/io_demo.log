@@ -1,0 +1,13 @@
+﻿Build started 11/24/2012 11:06:04 AM.
+     1>Project "C:\Users\Nick\Desktop\Git Projects\Labyrinthian\Assignment2\io_demo\io_demo.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\io_demo.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\io_demo.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>c:\users\nick\desktop\git projects\labyrinthian\assignment2\io_demo\stdafx.h(26): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+     1>Done Building Project "C:\Users\Nick\Desktop\Git Projects\Labyrinthian\Assignment2\io_demo\io_demo.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.99

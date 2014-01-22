@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="io_demo">
+</Property><Property Name="Solution File" Value="C:\nuss\My Dropbox\COMP3501\notes\graphics_rendering\example_directx\io_demo\io_demo.sln">
+</Property><Property Name="User Options File" Value="C:\nuss\My Dropbox\COMP3501\notes\graphics_rendering\example_directx\io_demo\io_demo.suo">
+</Property><Property Name="Date" Value="September-19-11">
+</Property><Property Name="Time" Value="12:09 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="io_demo.sln" Description="File successfully backed up as C:\nuss\My Dropbox\COMP3501\notes\graphics_rendering\example_directx\io_demo\io_demo.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="io_demo.suo" Description="File successfully backed up as C:\nuss\My Dropbox\COMP3501\notes\graphics_rendering\example_directx\io_demo\io_demo.suo.old">
+</Event><Event ErrorLevel="0" Project="io_demo" Source="io_demo\io_demo.vcproj" Description="Converting project file 'C:\nuss\My Dropbox\COMP3501\notes\graphics_rendering\example_directx\io_demo\io_demo\io_demo.vcproj'.">
+</Event><Event ErrorLevel="1" Project="io_demo" Source="io_demo\io_demo.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="io_demo" Source="io_demo\io_demo.vcproj" Description="Done converting to new project file 'C:\nuss\My Dropbox\COMP3501\notes\graphics_rendering\example_directx\io_demo\io_demo\io_demo.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="io_demo" Source="io_demo\io_demo.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="io_demo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="io_demo.sln" Description="Converted">
+</Event></UpgradeLog>
